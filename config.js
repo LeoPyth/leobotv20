@@ -51,18 +51,18 @@ global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
 global.nomorbot = '62895394988123' //Nomor Bot mu
-global.nomorown = '6288215689772' //Nomormu
+global.nomorown = '6287824899711' //Nomormu
 global.namebot = 'Fangz BOT' //Nama bot mu
-global.nameown = 'Fangz Ganz' //Nama mu
+global.nameown = 'Leo' //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
 //KALAU MAGER EDIT, MENDING GAUSAH DI APA² IN. SAMA AJA//
-global.swo = 'https://wa.me/6288215689772' //Nomor mu
+global.swo = 'https://wa.me/6287824899711' //Nomor mu
 global.linksc = 'https://bit.ly/3PqdYYS' //Gausah di ganti, biar ga eror
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰' //Gausah di apa² in
 global.botclick = '𝍤 CLICK HERE' //Bebas, Kalau gw saranin mending gausah di ganti.
 global.after = 'Bot by https://bit.ly/3QJOy9F'
-global.author = '                © Fangz BOT By Fangz' //Wm author
+global.author = '                © Fangz BOT By Leo' //Wm author
 global.acguest = 'Kamu akan Menggunakan akun guest dari FangzXD\n\nClick Button di bawah.'
 global.botintro = 'Hallo, Kenalin saya Fangz BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *FangzXD* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
 global.sc = 'https://telegra.ph/file/ff583768b40239651d69d.jpg'
@@ -89,8 +89,8 @@ global.guest = 'https://telegra.ph/file/b0ac5006061e9bc535a8f.jpg'
 global.thumbmenfes = 'https://telegra.ph/file/4be6353aeb9057e44825f.jpg'
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['19292226538'], //Owner1
-  ['19292746408'], //Owner2
+  ['6281320170984'], //Owner1
+  ['79680341674'], //Owner2
   ['6287824899711'], //Owner3
   ['6287824899711', 'Leo ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
@@ -471,7 +471,7 @@ global.nameowner = 'Leo'
 global.umurowner = '16'
 global.asalowner = 'Serang, Banten'
 global.nomorowner = 'wa.me/6287824899711'
-global.pacarowner = 'Ga ada pacar'
+global.pacarowner = 'Aulia ♡'
 /*⫘⫘⫘⫘ HIASAN ⫘⫘⫘⫘⫘*/
 // DEFAULT MENU
 global.dmenut = '╭━•〔' //top
